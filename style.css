@@ -1,0 +1,20 @@
+/* ORIGINAL TASK PUPILS STARTED WITH
+Full credit to code.org for task */
+  
+body {
+  background: bisque; /*I changed the background color from white to bisque. */
+  font-family: fantasy;
+}
+
+h1 {
+  color: rosybrown; /*I changed the color of the header to rosy brown. */
+}
+
+h3 {
+  color: honeydew; /*I changed the color of the header to honeydew. */
+  background-color: dodgerblue;
+}
+
+p {
+  color: palevioletred; /*I changed the color of the header to pale violet red. */
+}
